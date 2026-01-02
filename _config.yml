@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. in Philosophy, DePaul University. Research in 19th Century German Philosophy, Ancient Greek Philosophy, and Moral Psychology.
 footer_text: 
-keywords: ludovico zizzo, philosophy, nietzsche # add your own keywords or leave empty
+keywords: ludovico zizzo, philosophy, nietzsche, continental philosophy, german philosophy # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
