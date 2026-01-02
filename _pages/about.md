@@ -26,9 +26,3 @@ latest_posts:
 ---
 
 I am a philosopher specializing in 19th Century German Philosophy, Ancient Greek Philosophy, and Moral Psychology. I received my Ph.D. in Philosophy from DePaul University in 2025, where I defended my dissertation *The Abyss of Justice: Nietzsche's Psychology and the Problem of the Ideal Life* with Distinction.
-
-## Research Interests
-
-**Specialization:** 19th Century German Philosophy (esp. Hegel and Nietzsche), Ancient Greek Philosophy (esp. Plato and Aristotle), Moral Psychology
-
-**Competence:** Ethics, Social and Political Philosophy, History of Political Philosophy, Early Modern Philosophy, 20th Century Continental Philosophy

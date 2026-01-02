@@ -1,11 +1,17 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /research/
+title: research
 description: 
 nav: true
 nav_order: 2
 ---
+
+## Areas of interest
+
+**Specialization:** 19th Century German Philosophy (esp. Hegel and Nietzsche), Ancient Greek Philosophy (esp. Plato and Aristotle), Moral Psychology
+
+**Competence:** Ethics, Social and Political Philosophy, History of Political Philosophy, Early Modern Philosophy, 20th Century Continental Philosophy
 
 ## Articles
 
