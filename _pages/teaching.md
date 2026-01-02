@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching experience and pedagogical training.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## Teaching Fellow
