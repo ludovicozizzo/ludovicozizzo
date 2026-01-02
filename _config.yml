@@ -189,7 +189,9 @@ exclude:
   - _pages/projects.md
   - _pages/repositories.md
   - _pages/dropdown.md
+  - _pages/blog.md
   - _projects/
+  - _posts/
   - _includes/repository/
   - _data/repositories.yml
   - purgecss.config.js
