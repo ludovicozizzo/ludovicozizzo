@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a philosopher specializing in 19th Century German Philosophy, Ancient Greek Philosophy, and Moral Psychology. I received my Ph.D. in Philosophy from DePaul University in 2025, where I defended my dissertation *The Abyss of Justice: Nietzsche's Psychology and the Problem of the Ideal Life* with Distinction.
+I am a philosopher specializing in 19th Century German Philosophy, Ancient Greek Philosophy, and Moral Psychology. I received my Ph.D. in Philosophy from DePaul University in 2025, where I defended my dissertation _The Abyss of Justice: Nietzsche's Psychology and the Problem of the Ideal Life_ with Distinction.
