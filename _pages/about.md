@@ -2,13 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. in Philosophy, DePaul University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: >
+    <p>lzizzo@depaul.edu</p>
+    <p>+1 (312) 714-8012</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -24,8 +26,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a philosopher specializing in 19th Century German Philosophy, Ancient Greek Philosophy, and Moral Psychology. I received my Ph.D. in Philosophy from DePaul University in 2025, where I defended my dissertation *The Abyss of Justice: Nietzsche's Psychology and the Problem of the Ideal Life* with Distinction.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Research Interests
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Specialization:** 19th Century German Philosophy (esp. Hegel and Nietzsche), Ancient Greek Philosophy (esp. Plato and Aristotle), Moral Psychology
+
+**Competence:** Ethics, Social and Political Philosophy, History of Political Philosophy, Early Modern Philosophy, 20th Century Continental Philosophy
+
+## Education
+
+- **Ph.D. in Philosophy**, DePaul University, Chicago, 2025
+  - Dissertation: *The Abyss of Justice: Nietzsche's Psychology and the Problem of the Ideal Life*
+  - Defended with Distinction on October 10, 2025
+  - Committee: Sean D. Kirkland (co-advisor), Elizabeth Millán Brusslan (co-advisor), William McNeill, Daniel Conway (TAMU)
+- **M.A. in Continental Philosophy**, University of Essex, Colchester, UK, 2014
+  - Awarded with Distinction
+  - Thesis: *On the relation of eros and logos in Plato* (advisor: David N. McNeill)
+- **B.A. in Philosophy**, University of Essex, Colchester, UK, 2013
+  - Awarded with Honours Class I

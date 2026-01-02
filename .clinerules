@@ -1,0 +1,69 @@
+# Memory Bank: ludovicozizzo.github.io (al-folio theme)
+
+## Repository Overview
+This is a personal academic website built with the **al-folio** Jekyll theme, hosted on GitHub Pages.
+
+## Key Configuration Files
+
+### `_config.yml` - Main configuration
+- **Site settings**: `first_name`, `last_name`, `description`, `url`
+- **Layout settings**: `navbar_fixed`, `footer_fixed`, `search_enabled`
+- **Search controls**: `posts_in_search`, `socials_in_search`, `bib_search`
+- **Scholar settings**: `scholar.last_name`, `scholar.first_name` for publication author highlighting
+
+### Removing/Hiding Content
+The easiest way to remove pages/features without deleting files is to add them to the `exclude:` section in `_config.yml`:
+```yaml
+exclude:
+  - _pages/publications.md    # Hides publications page
+  - _pages/blog.md            # Hides blog page
+  - _pages/projects.md        # Hides projects page
+  - _pages/repositories.md    # Hides repositories page
+  - _pages/profiles.md        # Hides people/profiles page
+  - _pages/dropdown.md        # Hides dropdown menu
+  - _bibliography/            # Excludes bibliography processing
+  - _projects/                # Excludes projects collection
+  - _posts/                   # Excludes blog posts
+```
+
+### Key Pages Location
+- `_pages/about.md` - Home page (permalink: /)
+- `_pages/cv.md` - CV page
+- `_pages/teaching.md` - Teaching page
+- `_pages/publications.md` - Publications page (uses Jekyll Scholar)
+
+### About Page Front Matter Options
+```yaml
+selected_papers: false  # Show/hide selected papers section
+social: false           # Show/hide social icons
+announcements:
+  enabled: false        # Show/hide news section
+latest_posts:
+  enabled: false        # Show/hide blog posts
+```
+
+### Bibliography/Publications
+- Publications are stored in `_bibliography/papers.bib` (BibTeX format)
+- Uses Jekyll Scholar plugin
+- To disable: set `bib_search: false` and exclude `_pages/publications.md` and `_bibliography/`
+
+### Teaching Page Format
+Best formatted with markdown tables:
+```markdown
+| Term | Course |
+|:-----|:-------|
+| Spring 2026 | Course Name |
+```
+
+## Collections
+- `_news/` - News announcements
+- `_projects/` - Project cards
+- `_books/` - Bookshelf items
+- `_posts/` - Blog posts
+
+## Profile Image
+- Located at `assets/img/prof_pic.jpg`
+- Configured in `_pages/about.md` under `profile.image`
+
+## Navigation Order
+Set `nav_order: N` in page front matter to control navbar order.
