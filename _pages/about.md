@@ -6,7 +6,7 @@ subtitle: Ph.D. in Philosophy, DePaul University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zizzo_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>lzizzo@depaul.edu</p>

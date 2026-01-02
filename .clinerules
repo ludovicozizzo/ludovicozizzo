@@ -62,7 +62,7 @@ Best formatted with markdown tables:
 - `_posts/` - Blog posts
 
 ## Profile Image
-- Located at `assets/img/prof_pic.jpg`
+- Located at `assets/img/zizzo_pic.jpg`
 - Configured in `_pages/about.md` under `profile.image`
 
 ## Navigation Order
