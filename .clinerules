@@ -13,18 +13,6 @@ This is a personal academic website built with the **al-folio** Jekyll theme, ho
 
 ### Removing/Hiding Content
 The easiest way to remove pages/features without deleting files is to add them to the `exclude:` section in `_config.yml`:
-```yaml
-exclude:
-  - _pages/publications.md    # Hides publications page
-  - _pages/blog.md            # Hides blog page
-  - _pages/projects.md        # Hides projects page
-  - _pages/repositories.md    # Hides repositories page
-  - _pages/profiles.md        # Hides people/profiles page
-  - _pages/dropdown.md        # Hides dropdown menu
-  - _bibliography/            # Excludes bibliography processing
-  - _projects/                # Excludes projects collection
-  - _posts/                   # Excludes blog posts
-```
 
 ### Key Pages Location
 - `_pages/about.md` - Home page (permalink: /)
@@ -42,11 +30,6 @@ latest_posts:
   enabled: false        # Show/hide blog posts
 ```
 
-### Bibliography/Publications
-- Publications are stored in `_bibliography/papers.bib` (BibTeX format)
-- Uses Jekyll Scholar plugin
-- To disable: set `bib_search: false` and exclude `_pages/publications.md` and `_bibliography/`
-
 ### Teaching Page Format
 Best formatted with markdown tables:
 ```markdown
@@ -54,12 +37,6 @@ Best formatted with markdown tables:
 |:-----|:-------|
 | Spring 2026 | Course Name |
 ```
-
-## Collections
-- `_news/` - News announcements
-- `_projects/` - Project cards
-- `_books/` - Bookshelf items
-- `_posts/` - Blog posts
 
 ## Profile Image
 - Located at `assets/img/zizzo_pic.jpg`
